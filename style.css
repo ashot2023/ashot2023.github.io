@@ -1,0 +1,102 @@
+*{
+    margin: 0; 
+    padding:0;
+}
+h1{
+text-align: center;
+font-size: 48px;
+color:rgb(187, 21, 187) ;
+padding-top:  10px; 
+padding-bottom: 20px;
+}
+
+.b{
+    background-image: url("image.avif");
+    background-size: cover;
+}
+.sport-type{
+    width:100%;
+    text-align: center;
+    
+}
+.sport-type img{
+    width: 300px;
+    height: 200px;
+    transition: 0.5s;
+}
+.name{
+    padding-top: 10px;
+    color: aqua;
+}
+.sport-type a{
+    text-decoration: none;
+}
+.sport-type img:hover{
+    transform: scale(1.2);
+
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 30px;
+}
+header span{
+    font-size:50px;
+    color: darkgreen;
+    font-family: 'Trebuchet MS',
+     'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+}
+header a{
+    text-decoration: none;
+}
+.aaa img{
+    width: 250px;
+    height: 200px;
+    margin: 15px 20px 30px 40px;
+}
+.aaa{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: darkgreen;
+    padding: 20px 0px; 
+}
+footer a{
+    text-decoration: none;
+    font-size: 24px;
+    color: darkgreen;
+}
+.nnn{
+    width: 100%;
+    text-align: center;
+}
+footer div{
+    text-align: right;
+    border-top: 1px solid darkgreen;
+    margin: 20px 100px 0px 100px;
+    padding-top: 15px;
+}
+.ggg{
+    width: 900px;
+    margin: 50px auto;
+    background-color: cadetblue;
+    text-align: center;
+}
+.hhh{
+    font-size: 24px;
+}
+.ttt{
+    background-color:chartreuse
+}
+.fff{
+    margin: 24px;
+}
+.fff li{
+    margin: 10px;
+}
+.fff li a{
+    text-decoration: none;
+    color: black;
+}
